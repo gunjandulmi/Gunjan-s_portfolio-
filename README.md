@@ -1,4 +1,4 @@
-# Gunjan's Analytics Portfolio
+ # ______________Gunjan's Analytics Portfolio______________
 
 ## 📊 Data Analytics Projects – Coming Soon!
 
@@ -7,7 +7,8 @@ Hi there! 👋
 This repository is currently a preview. I will soon be uploading a collection of data analytics projects that showcase my skills in data cleaning, analysis, visualization, and storytelling. 
 
 These projects will involve tools and technologies such as: 
-* Python (Pandas, NumPy, Matplotlib, Seaborn, etc.) . SOL (for querying and transforming structured data) 
+* Python (Pandas, NumPy, Matplotlib, Seaborn, etc.) .
+* SQL (for querying and transforming structured data) 
 * Power Bl (interactive dashboards and reports) 
 * Excel (data manipulation and visualization) 
 * Other relevant tools used in the data analytics workflow
